@@ -59,6 +59,18 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 *Make sure they're in the slot stated above.*
 
+# Line 0x00000090 - 0x000000A0
+
+- 00 - 03 = 3rd Slot Duplication Ammo/Clothes (Value of 0F27 will duplicate your ammo to 9999). *64 will be 100 Ammo*
+
+- 0F - *0x000000A0's* 00 = 4th Slot Duplication Ammo/Clothes (Value of 0F27 will duplicate your ammo to 9999). *64 will be 100 Ammo*
+
+*0x000000A0*
+
+- 0E - 0F = 5th Slot Duplication Ammo/Clothes (Value of 0F27 will duplicate your ammo to 9999). *64 will be 100 Ammo*
+
+*Make sure they're in the slot stated above.*
+
 # Download?
 
 - Yeah sure, why the hell not? 😉
