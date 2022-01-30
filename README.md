@@ -82,3 +82,7 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 ![image](https://user-images.githubusercontent.com/78656905/151711924-8e7bc222-6653-4c08-a491-f9b1c88baf05.png)
 
 ![image](https://user-images.githubusercontent.com/78656905/151711937-52de977e-823b-436e-b31f-6b6c1a885459.png)
+
+![image](https://user-images.githubusercontent.com/78656905/151719058-a35680f9-5964-45e9-aca4-24c0a4f2d750.png)
+
+![image](https://user-images.githubusercontent.com/78656905/151719075-3059d8c8-dbf4-4a18-b015-0b8f97c27833.png)
