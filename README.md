@@ -7,6 +7,12 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - Data0, Data1, Data2, Data3
 
+- Data0 is the Player Information, Health, Time, Inventory, Items, Item Amount, Etc.
+
+- Data3 is the World Spawn Information.
+
+- Data1 & Data2 are blacklisted Users + User ID's (Each of these carry 50 users + their ID's).
+
 # Line 0x00000020 
 
 - 00 - 03 = Health (Value of 0F27 will be 9999%). *64 will be 100%
