@@ -34,14 +34,30 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 - 00 - 03 = Amount of Days Passed (Value of 0F27 will be 9999 Days Passed). *64 will be 100 Days*
 - 04 - 07 = KM Walked/Drove (Value of 0F27 will be 9999.0KM Walked/Drove). *64 will be 100.0KM*
 - 08 - 0B = Confirmation for KM Walked/Drove (Value of 0F27 will be 9999.0KM Walked/Drove). *64 will be 100.0KM*
-- 0C - 0F = Amount of Zombies Killed (Max = 25)
+- 0C - 0F = Amount of Zombies Killed (Max = 25) (Value of 0F27 will be 25 Zombies Killed).
 
 # Line 0x00000050
 
-- 00 - 03 = Amount of Players Killed (Max = 99)
-- 04 - 07 = Amount of Vehicles Driven (Max = 99)
-- 08 - 0B = Amount of Food/Water Consumed (Max = 99)
-- 0C - 0F = Amount of Healing Items Used (Max = 25)
+- 00 - 03 = Amount of Players Killed (Max = 99) (Value of 0F27 will be 99 Players Killed).
+- 04 - 07 = Amount of Vehicles Driven (Max = 99) (Value of 0F27 will be 99 Vehicles Driven).
+- 08 - 0B = Amount of Food/Water Consumed (Max = 99) (Value of 0F27 will be 99 Zombies Killed).
+- 0C - 0F = Amount of Healing Items Used (Max = 25) (Value of 0F27 will be 25 Healing Items Used).
+
+# Line 0x00000060
+
+- 00 - 03 = Amount of Fish/Goose Caught (Max = 99) (Value of 0F27 will be 99 Fish/Goose Caught).
+
+# Line 0x00000070
+
+- 02 - 05 = 1st Slot Duplicate Ammo/Clothes (Value of 0F27 will duplicate your ammo to 9999). *64 will be 100 Ammo*
+
+*Make sure they're in the slot stated above.*
+
+# Line 0x00000080
+
+- 01 - 04 = 2nd Slot Duplication Ammo/Clothes (Value of 0F27 will duplicate your ammo to 9999). *64 will be 100 Ammo*
+
+*Make sure they're in the slot stated above.*
 
 # Download?
 
