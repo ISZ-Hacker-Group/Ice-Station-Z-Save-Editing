@@ -5,6 +5,8 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - You'll need to have the decrypted save file(s).
 
+- A hacked 3DS with Luma3ds & Checkpoint or JKSM
+
 - Data0, Data1, Data2, Data3
 
 - Data0 is the Player Information, Health, Time, Inventory, Items, Item Amount, Etc.
