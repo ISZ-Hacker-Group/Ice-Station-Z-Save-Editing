@@ -22,3 +22,10 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 # Line 0x00000030
 
 - 00 - 03 = Battery (Value of 0F27 will be 9999%). *64 will be 100%
+
+# Download?
+
+- Yeah sure, why the hell not? 😉
+
+- Download Here: [Decrypted Save Files](https://github.com/Cracko298/ISZ-3DS-Save-File-Editing/files/7966587/Decrypted.Save.Files.zip)
+
