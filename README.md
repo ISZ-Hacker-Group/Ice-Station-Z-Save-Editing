@@ -3,6 +3,10 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 # How can I save editr my game?
 
+- You'll need to have the decrypted save file(s).
+
+- Data0, Data1, Data2, Data3
+
 # Line 0x00000020 
 
 - 00 - 03 = Health (Value of 0F27 will be 9999%). *64 will be 100%
