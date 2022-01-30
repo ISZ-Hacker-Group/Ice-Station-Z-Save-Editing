@@ -29,3 +29,6 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - Download Here: [Decrypted Save Files](https://github.com/Cracko298/ISZ-3DS-Save-File-Editing/files/7966587/Decrypted.Save.Files.zip)
 
+![image](https://user-images.githubusercontent.com/78656905/151711924-8e7bc222-6653-4c08-a491-f9b1c88baf05.png)
+
+![image](https://user-images.githubusercontent.com/78656905/151711937-52de977e-823b-436e-b31f-6b6c1a885459.png)
