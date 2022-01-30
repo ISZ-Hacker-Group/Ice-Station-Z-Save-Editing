@@ -15,15 +15,33 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - Data1 & Data2 are blacklisted Users + User ID's (Each of these carry 50 users + their ID's).
 
+# Line 0x00000010
+
+- Nothing here to edit. (You'll Corrupt your data).
+
 # Line 0x00000020 
 
-- 00 - 03 = Health (Value of 0F27 will be 9999%). *64 will be 100%
-- 04 - 07 = Hunger (Value of 0F27 will be 9999%). *64 will be 100%
-- 08 - 0B = Thirst (Value of 0F27 will be 9999%). *64 will be 100%
+- 00 - 03 = Health (Value of 0F27 will be 9999%). *64 will be 100%*
+- 04 - 07 = Hunger (Value of 0F27 will be 9999%). *64 will be 100%*
+- 08 - 0B = Thirst (Value of 0F27 will be 9999%). *64 will be 100%*
 
 # Line 0x00000030
 
-- 00 - 03 = Battery (Value of 0F27 will be 9999%). *64 will be 100%
+- 00 - 03 = Battery (Value of 0F27 will be 9999%). *64 will be 100%*
+
+# Line 0x00000040
+
+- 00 - 03 = Amount of Days Passed (Value of 0F27 will be 9999 Days Passed). *64 will be 100 Days*
+- 04 - 07 = KM Walked/Drove (Value of 0F27 will be 9999.0KM Walked/Drove). *64 will be 100.0KM*
+- 08 - 0B = Confirmation for KM Walked/Drove (Value of 0F27 will be 9999.0KM Walked/Drove). *64 will be 100.0KM*
+- 0C - 0F = Amount of Zombies Killed (Max = 25)
+
+# Line 0x00000050
+
+- 00 - 03 = Amount of Players Killed (Max = 99)
+- 04 - 07 = Amount of Vehicles Driven (Max = 99)
+- 08 - 0B = Amount of Food/Water Consumed (Max = 99)
+- 0C - 0F = Amount of Healing Items Used (Max = 25)
 
 # Download?
 
