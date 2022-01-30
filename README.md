@@ -1,4 +1,4 @@
-# ISZ-3DS-Save-File-Editing
+# Ice-Station-Z-Save-Editing
 Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 # How can I save edit my game?
