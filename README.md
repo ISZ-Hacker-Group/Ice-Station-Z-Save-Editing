@@ -19,6 +19,8 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - Data0, Data1, Data2, Data3
 
+- Windows Computer with HxD installed
+
 - Data0 is the Player Information, Health, Time, Inventory, Items, Item Amount, Etc.
 
 - Data3 is the World Spawn Information & Verify's that Data0 is legetimate.
