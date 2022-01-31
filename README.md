@@ -7,7 +7,7 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - Download The "Application.3dssavedata" file Here: [Application.3dssavedata](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/Application.3dssavedata)
 
-# How can I save edit my game?
+# How can I save edit my own game?
 
 - You'll need to have the decrypted save file(s).
 
