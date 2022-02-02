@@ -1,11 +1,11 @@
 # Ice-Station-Z-Save-Editing
 Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
-- Generate your own hacked Data0 file with the provided Generator-like application.
+- Generate your own hacked [Data0](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/_meta/Data0) file with the provided Generator-like application.
 
-- Download The Generator: [Data0 Generator](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/files/7974716/Data0.Generator.zip)
+- Download The [Data0 Generator](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/files/7974716/Data0.Generator.zip)
 
-- Download The "Application.3dssavedata" file Here: [Application](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/files/7974714/Application.zip)
+- Download The ["Application.3dssavedata"](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/releases/download/v2.X/Application.3dssavedata)
 
 - Using the generator, generates a entirely new "hacked" save from scratch.
 
@@ -17,7 +17,7 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - A hacked 3DS with Luma3ds & [Checkpoint](https://github.com/FlagBrew/Checkpoint/releases) or [JKSM](https://github.com/J-D-K/JKSM/releases/tag/05.08.2020)
 
-- Data0, Data1, Data2, Data3
+- [Data0, Data1, Data2, Data3](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/files/7974717/Copy.of.Data0.zip)
 
 - Windows Computer with [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) installed 
 
