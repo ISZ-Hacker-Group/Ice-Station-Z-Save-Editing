@@ -103,7 +103,7 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 
 # Data1 & Data2 Necessities
-- You need the Decrypted Saves Data1 & Data2 from 
+- You need the Decrypted Saves Data1 & Data2 from your Hacked 3DS Console.
 - Windows Computer with [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) installed 
 - A Modded 3DS with [Luma3DS](https://github.com/Nanquitas/Luma3DS/releases/tag/v10.2.1), [Checkpoint](https://github.com/FlagBrew/Checkpoint/releases) or, [JKSM](https://github.com/J-D-K/JKSM/releases/tag/05.08.2020)
 
