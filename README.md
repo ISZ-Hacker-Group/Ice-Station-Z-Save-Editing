@@ -29,6 +29,8 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - Data1 & Data2 are blacklisted Users + User ID's (Each of these carry 50 users + their ID's).
 
+# Data0 Modding
+
 # Line 0x00000010
 
 - Nothing here to edit. (You'll Corrupt your data).
