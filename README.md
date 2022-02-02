@@ -87,6 +87,28 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 *Make sure they're in the slot stated above.*
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Data1 & Data2
+
+- Type in the user and their ID diagonally from Line 0x00000020 byte 0x0F to blacklist them. (Screenshots soon).
+- To unblacklist user use the ascii character 0x000000000000000 to delete the bytes of the user information. (Including ID's along with the name).
+- Setting the ID's to 0x000000000000000 and leaving the names won't allow you to join any servers, or host any servers in any mode. (Except Single Player)
+- Setting the names to 0x000000000000000 and leaving the ID as is will blacklist the new player you encounter online, locale, or Friends Only.
+
 # Download?
 
 - Yeah sure, why the hell not? 😉
