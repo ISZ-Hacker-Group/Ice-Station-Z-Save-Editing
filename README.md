@@ -5,7 +5,7 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - Download The [Data0 Generator](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/files/7974716/Data0.Generator.zip)
 
-- Download The ["Application.3dssavedata"](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/releases/download/v2.X/Application.3dssavedata)
+- Download The [Application.3dssavedata](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/releases/download/v2.X/Application.3dssavedata)
 
 - Using the generator, generates a entirely new "hacked" save from scratch.
 
