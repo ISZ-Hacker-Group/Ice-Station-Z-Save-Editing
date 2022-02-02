@@ -15,11 +15,11 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - You'll need to have the decrypted save file(s).
 
-- A hacked 3DS with Luma3ds & Checkpoint or JKSM
+- A hacked 3DS with Luma3ds & [Checkpoint](https://github.com/FlagBrew/Checkpoint/releases) or [JKSM](https://github.com/J-D-K/JKSM/releases/tag/05.08.2020)
 
 - Data0, Data1, Data2, Data3
 
-- Windows Computer with HxD installed
+- Windows Computer with [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) installed 
 
 - Data0 is the Player Information, Health, Time, Inventory, Items, Item Amount, Etc.
 
