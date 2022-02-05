@@ -62,6 +62,7 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 # Line 0x00000060
 
 - 00 - 03 = Amount of Fish/Goose Caught (Max = 99) (Value of 0F27 will be 99 Fish/Goose Caught).
+- 09 = Item ID of First Slot. (0C = Nothing).
 
 # Line 0x00000070
 
