@@ -56,25 +56,25 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - 00 - 03 = Amount of Players Killed (Max = 99) (Value of 0F27 will be 99 Players Killed).
 - 04 - 07 = Amount of Vehicles Driven (Max = 99) (Value of 0F27 will be 99 Vehicles Driven).
-- 08 - 0B = Amount of Food/Water Consumed (Max = 99) (Value of 0F27 will be 99 Zombies Killed).
+- 08 - 0B = Amount of Food/Consumed (Max = 99) (Value of 0F27 will be 99 Zombies Killed).
 - 0C - 0F = Amount of Healing Items Used (Max = 25) (Value of 0F27 will be 25 Healing Items Used).
 
 # Line 0x00000060
 
 - 00 - 03 = Amount of Fish/Goose Caught (Max = 99) (Value of 0F27 will be 99 Fish/Goose Caught).
-- 09 = Item ID of First Slot. (0F = Pistol Ammo | 3C = Tents).
+- 09 = Item ID of First Slot.
 
 # Line 0x00000070
 
 - 02 - 05 = 1st Slot Duplicate Ammo/Clothes (Value of 0F27 will duplicate your ammo to 9999). *64 will be 100 Ammo*
-- 08 = Item ID of Second Slot. (0F = Pistol Ammo | 3C = Tents).
+- 08 = Item ID of Second Slot.
 
 *Make sure they're in the slot stated above.*
 
 # Line 0x00000080
 
 - 01 - 04 = 2nd Slot Duplication Ammo/Clothes (Value of 0F27 will duplicate your ammo to 9999). *64 will be 100 Ammo*
-- 07 = Item ID of Third Slot. (0F = Pistol Ammo | 3C = Tents).
+- 07 = Item ID of Third Slot.
 
 *Make sure they're in the slot stated above.*
 
@@ -92,20 +92,13 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 *Make sure they're in the slot stated above.*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Item ID's
+- (0F = Pistol Ammo | 3C = Tents | 3B = Bling Backpack | 28 = Large Bandages | 33 = Kvlar Jacket | 0D = Tranquilizer Gun).
+- (06 = Arctic Hunting Shotgun | 10 = Shotgun Ammo | 13 = Tranquilizer Ammo | 29 = Large Dressing | 0E = Knife).
+- (20 = Beans | 1D = Water Bottle  | 3E = Goose | 3F = Cooked Goose | 4E = Disable Slot | 01 = Basic Handgun | 02 = Arctic Handgun).
+- (03 = Arctic Eagle Handgun | 04 = Double Barrel Shotgun | 05 = Hunting Shotgun | 07 = Hunting Rifle | 08 = Scout Hunting Rifle).
+- (09 = Arctic Hunting Rifle | 11 = Rifle Ammo | 12 =  Crossbow Bolts | 14 = Matches | 15 = Fuel | 16 - Bonoculars).
+- (17 = Cooking Stove | 18 = Bear Traps | 19 = Fishing Rod | 21 = Corned Beef | 22 = Large Water Bottle).
 
 # Data1 & Data2 Necessities
 - You need the Decrypted Saves Data1 & Data2 from your Hacked 3DS Console.
