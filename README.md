@@ -62,19 +62,19 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 # Line 0x00000060
 
 - 00 - 03 = Amount of Fish/Goose Caught (Max = 99) (Value of 0F27 will be 99 Fish/Goose Caught).
-- 09 = Item ID of First Slot.
+- 09 = Item ID of First Slot. (First save slot)
 
 # Line 0x00000070
 
 - 02 - 05 = 1st Slot Duplicate Ammo/Clothes (Value of 0F27 will duplicate your ammo to 9999). *64 will be 100 Ammo*
-- 08 = Item ID of Second Slot.
+- 08 = Item ID of Second Slot. (First save slot)
 
 *Make sure they're in the slot stated above.*
 
 # Line 0x00000080
 
 - 01 - 04 = 2nd Slot Duplication Ammo/Clothes (Value of 0F27 will duplicate your ammo to 9999). *64 will be 100 Ammo*
-- 07 = Item ID of Third Slot.
+- 07 = Item ID of Third Slot. (First save slot
 
 *Make sure they're in the slot stated above.*
 
@@ -99,6 +99,10 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 - (03 = Arctic Eagle Handgun | 04 = Double Barrel Shotgun | 05 = Hunting Shotgun | 07 = Hunting Rifle | 08 = Scout Hunting Rifle).
 - (09 = Arctic Hunting Rifle | 11 = Rifle Ammo | 12 =  Crossbow Bolts | 14 = Matches | 15 = Fuel | 16 - Bonoculars).
 - (17 = Cooking Stove | 18 = Bear Traps | 19 = Fishing Rod | 21 = Corned Beef | 22 = Large Water Bottle).
+- (23 = MintCake | 24 = Antiseptic | 25 = Antibiotics | 26 = Bandage | 27 = Dressing | 30 = Military Jacket).
+- (31 = Military Trousers | 32 = Military Backpack | 34 = Kvlar Trousers | 35 = Kvlar Backpack).
+- (36 = Arctic Jacket | 37 = Arctic Trousers | 38 = Arctic Backpack | 39 = Bling Jacket | 40 = Minow).
+- (41 = Large Fish | 3A = Bling Trousers | 42 = Cooked Fish | 43 = Engine Part | 44 = Snowboard | 45 = LLOON *Hidden Item*).
 
 # Data1 & Data2 Necessities
 - You need the Decrypted Saves Data1 & Data2 from your Hacked 3DS Console.
