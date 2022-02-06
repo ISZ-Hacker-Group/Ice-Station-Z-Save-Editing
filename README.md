@@ -25,11 +25,11 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - Data0 is the Player Information, Health, Time, Inventory, Items, Item Amount, Etc.
 
-- Data3 is the World Spawn Information & Verify's that Data0 is legetimate.
+- Data3 is the blacklist information. (Each of these carry 50 users + their ID's).
 
-- Data1 & Data2 are blacklisted Users + User ID's (Each of these carry 50 users + their ID's).
+- Data1 & Data2 are the same thing as Data0. (Data0 is save slot 1, Data1 is save slot 2, Data2 is save slot 3).
 
-# Data0 Modding
+# Modding: Data0 Data1 Data2
 
 # Line 0x00000010
 
@@ -62,19 +62,19 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 # Line 0x00000060
 
 - 00 - 03 = Amount of Fish/Goose Caught (Max = 99) (Value of 0F27 will be 99 Fish/Goose Caught).
-- 09 = Item ID of First Slot. (First save slot)
+- 09 = Item ID of First Slot.
 
 # Line 0x00000070
 
 - 02 - 05 = 1st Slot Duplicate Ammo/Clothes (Value of 0F27 will duplicate your ammo to 9999). *64 will be 100 Ammo*
-- 08 = Item ID of Second Slot. (First save slot)
+- 08 = Item ID of Second Slot.
 
 *Make sure they're in the slot stated above.*
 
 # Line 0x00000080
 
 - 01 - 04 = 2nd Slot Duplication Ammo/Clothes (Value of 0F27 will duplicate your ammo to 9999). *64 will be 100 Ammo*
-- 07 = Item ID of Third Slot. (First save slot
+- 07 = Item ID of Third Slot.
 
 *Make sure they're in the slot stated above.*
 
