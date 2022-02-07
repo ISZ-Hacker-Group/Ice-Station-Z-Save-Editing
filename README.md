@@ -48,8 +48,7 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 # Line 0x00000040
 
 - 00 - 03 = Amount of Days Passed (Value of 0F27 will be 9999 Days Passed). *64 will be 100 Days*
-- 04 - 07 = KM Walked/Drove (Value of 0F27 will be 9999.0KM Walked/Drove). *64 will be 100.0KM*
-- 08 - 0B = Confirmation for KM Walked/Drove (Value of 0F27 will be 9999.0KM Walked/Drove). *64 will be 100.0KM*
+- 08 - 0B = KM Walked/Drove (Value of 0F27 will be 9999.0KM Walked/Drove). *64 will be 100.0KM*
 - 0C - 0F = Amount of Zombies Killed (Max = 25) (Value of 0F27 will be 25 Zombies Killed).
 
 # Line 0x00000050
