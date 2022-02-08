@@ -101,7 +101,7 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 - (23 = MintCake | 24 = Antiseptic | 25 = Antibiotics | 26 = Bandage | 27 = Dressing | 30 = Military Jacket).
 - (31 = Military Trousers | 32 = Military Backpack | 34 = Kvlar Trousers | 35 = Kvlar Backpack | 2F = Cammo Backpack).
 - (36 = Arctic Jacket | 37 = Arctic Trousers | 38 = Arctic Backpack | 39 = Bling Jacket | 40 = Minow).
-- (41 = Large Fish | 3A = Bling Trousers | 42 = Cooked Fish | 4 | 4Angine Part | 44 = Snowboard | 45 = LLOON *Hidden Item*).
+- (41 = Large Fish | 3A = Bling Trousers | 42 = Cooked Fish | 44 = Engine Part | 44 = Snowboard | 45 = LLOON *Hidden Item*).
 - (1A = Field Bonoculars | 1B = Professional Fishing Rod | 1C = Metal Detector | 1E = Snackbar | 1F = Canned Tuna).
 - (2A = Defualt Jacket | 2B = Defualt Trousers | 2C = Defualt Backpack | 2D = Cammo Jacket | 2E = Cammo Trousers).
 
