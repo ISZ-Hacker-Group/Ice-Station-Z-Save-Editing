@@ -1,19 +1,7 @@
 # Ice-Station-Z-Save-Editing
 Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
-- Generate your own hacked [Data0](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/_meta/Data0) file with the provided Generator-like application.
-
-- Download The [Data0 Generator](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/files/7974716/Data0.Generator.zip)
-
-- Will need the [file](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/releases/download/v2.X/Application.3dssavedata) below everytime you generate a new Data0
-
-- Download The [Application.3dssavedata](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/releases/download/v2.X/Application.3dssavedata)
-
-- Download The [Ice Station Z Save Analyzer](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/files/8052657/ISZ-Save-Data-Analyzer.zip)
-
-- Using the generator, generates a entirely new "hacked" save from scratch.
-
-- You will loose your save data if you choose to use the generated save!
+- Download The [ISZ Save Data Analyzer](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/files/8093941/ISZ-Save-Data-Analyzer.zip)
 
 # How can I save edit my own game?
 
