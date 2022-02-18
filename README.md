@@ -9,7 +9,7 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - A hacked 3DS with [Luma3DS](https://github.com/Nanquitas/Luma3DS/releases/tag/v10.2.1) & [Checkpoint](https://github.com/FlagBrew/Checkpoint/releases) or [JKSM](https://github.com/J-D-K/JKSM/releases/tag/05.08.2020)
 
-- [Data0, Data1, Data2, Data3](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/files/7974717/Copy.of.Data0.zip)
+- [Data0](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/Data0?raw=true), [Data1](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/Data1?raw=true), [Data2](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/Data2?raw=true), [Data3](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/Data3?raw=true)
 
 - Windows Computer with [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) installed 
 
