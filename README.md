@@ -21,11 +21,17 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - Data1 & Data2 are the same thing as Data0. (Data0 is save slot 1, Data1 is save slot 2, Data2 is save slot 3).
 
-# Modding: Data0 Data1 Data2
+# Modding: Data0, Data1, & Data2
+
+# Line 0x00000000
+
+- 00 - 00 = Has save been open? (01 = Yes, do NOT create new Save-Data, 00 = No, create new save data).
+- 08 - 0C = Save Data last opened (0000000000 = Was Updated 1/1 at 00:00pm).
 
 # Line 0x00000010
 
-- Nothing here to edit. (You'll Corrupt your data).
+- 00 - 03 = Save Created? (FFFFFFFF locks the save, 01000000 unlocks the save).
+- 06 - 0F = Spawn Coordinates (E4449489F141839EC9C4 = Grey-Base, Oil-Rig = 4A42C779E841CEA735C5).
 
 # Line 0x00000020 
 
