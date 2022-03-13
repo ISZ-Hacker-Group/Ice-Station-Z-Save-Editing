@@ -1,9 +1,9 @@
 # Ice-Station-Z-Save-Editing
 Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
-- Download The [ISZ Save Data Analyzer](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/ISZ-Save-Data-Analyzer.zip?raw=true) *Analyze Saved Data from Ice Station Z* - *Uses this repo for up-to date information on Save Data*
-
-- Download The [Ice Station Z Save Editor](https://github.com/TheRealYunix/Ice-Station-Z-Save-Editor) *Edit your Saved Data from Ice Station Z* - *Uses this repo for up-to date information on Save Data*
+- Download The [ISZ Save Data Analyzer](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/ISZ-Save-Data-Analyzer.zip?raw=true) *Analyze Saved Data from Ice Station Z*
+- Download The [Original Ice Station Z Save Editor](https://github.com/TheRealYunix/Ice-Station-Z-Save-Editor) *Uses this repo for up-to date information on Save Data*
+- Download The [Updated Ice Station Z Save Editor](https://github.com/Cracko298/Ice-Station-Z-Save-Editor) *Uses this repo for up-to date information on Save Data*
 
 # How can I save edit my own game?
 
