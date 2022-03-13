@@ -103,22 +103,16 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 - (1A = Field Bonoculars | 1B = Professional Fishing Rod | 1C = Metal Detector | 1E = Snackbar | 1F = Canned Tuna).
 - (2A = Defualt Jacket | 2B = Defualt Trousers | 2C = Defualt Backpack | 2D = Cammo Jacket | 2E = Cammo Trousers).
 
-# Data1 & Data2 Necessities
-- You need the Decrypted Saves Data1 & Data2 from your Hacked 3DS Console.
-- Windows Computer with [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) installed 
-- A Modded 3DS with [Luma3DS](https://github.com/Nanquitas/Luma3DS/releases/tag/v10.2.1), [Checkpoint](https://github.com/FlagBrew/Checkpoint/releases), or [JKSM](https://github.com/J-D-K/JKSM/releases/tag/05.08.2020)
+# Data3 Modding
 
-# Info on Data1 & Data2
-- Type in the user and their ID diagonally from Line 0x00000020 byte 0x0F to blacklist them. (Screenshots soon).
-- To unblacklist user use the ascii character 0x000000000000000 to delete the bytes of the user information. (Including ID's along with the name).
-- Setting the ID's to 0x000000000000000 and leaving the names won't allow you to join any servers, or host any servers in any mode. (Except Single Player)
-- Setting the names to 0x000000000000000 and leaving the ID as is will blacklist the new player you encounter online, locale, or Friends Only.
-
-# Download?
-
-- Yeah sure, why the hell not? 😉
-
-- Download [Data03](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/files/7974717/Copy.of.Data0.zip)
+# Line 0x00000000
+- 00 - 02 = Horizontal Sensitivity (000080 is Max Sensitivity).
+- 04 - 06 = Vertical Sensitivity (000080 is Max Sensitivity).
+- 07 - 07 = Invert Y (01 = ON).
+- 08 - 08 = Invert X (01 = ON).
+- 09 - 09 = Manual Camera (01 = ON).
+- 0A - 0A = C-Stick Aim (01 = ON).
+- 0B - 0B = Game Chat (01 = ON).
 
 ![image](https://user-images.githubusercontent.com/78656905/151711924-8e7bc222-6653-4c08-a491-f9b1c88baf05.png)
 
