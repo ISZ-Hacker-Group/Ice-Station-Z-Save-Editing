@@ -9,17 +9,15 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 
 - You'll need to have the decrypted save file(s).
 
-- A hacked 3DS with [Luma3DS](https://github.com/Nanquitas/Luma3DS/releases/tag/v10.2.1) & [Checkpoint](https://github.com/FlagBrew/Checkpoint/releases) or [JKSM](https://github.com/J-D-K/JKSM/releases/tag/05.08.2020)
+- A hacked 3DS with [Luma3DS](https://github.com/Nanquitas/Luma3DS/releases/tag/v10.2.1) & [Checkpoint](https://github.com/FlagBrew/Checkpoint/releases) or [JKSM](https://github.com/J-D-K/JKSM/releases/tag/05.08.2020).
 
-- [Data0](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/Data0?raw=true), [Data1](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/Data1?raw=true), [Data2](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/Data2?raw=true), [Data3](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/Data3?raw=true)
+- [Data0](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/Data0?raw=true), [Data1](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/Data1?raw=true), [Data2](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/Data2?raw=true), [Data3](https://github.com/Cracko298/Ice-Station-Z-Save-Editing/blob/main/Data3?raw=true).
 
-- Windows Computer with [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) installed 
+- Windows Computer with [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20) installed.
 
-- Data0 is the Player Information, Health, Time, Inventory, Items, Item Amount, Etc.
+- Data0, Data1, Data2 are the World Information & Player Stats. (Data0 = Save Slot 1, Data1 = Save Slot 2, Data2 = Save Slot 3).
 
-- Data3 is the blacklist information. (Each of these carry 50 users + their ID's).
-
-- Data1 & Data2 are the same thing as Data0. (Data0 is save slot 1, Data1 is save slot 2, Data2 is save slot 3).
+- Data3 is the Blacklist Information, and Settings/Options. (This carries Usernames, ID Information, & Settings/Options).
 
 # Modding: Data0, Data1, & Data2
 
