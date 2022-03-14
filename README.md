@@ -101,7 +101,7 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 - (1A = Field Bonoculars | 1B = Professional Fishing Rod | 1C = Metal Detector | 1E = Snackbar | 1F = Canned Tuna).
 - (2A = Defualt Jacket | 2B = Defualt Trousers | 2C = Defualt Backpack | 2D = Cammo Jacket | 2E = Cammo Trousers).
 
-# Data3 Modding
+# Modding: Data3
 
 # Line 0x00000000
 - 00 - 02 = Horizontal Sensitivity (000080 is Max Sensitivity).
