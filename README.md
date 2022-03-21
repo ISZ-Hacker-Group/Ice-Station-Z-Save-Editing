@@ -100,6 +100,7 @@ Save-Edit your Nintendo 3DS saves with this method of save-editing.
 - (41 = Large Fish | 3A = Bling Trousers | 42 = Cooked Fish | 44 = Engine Part | 44 = Snowboard | 45 = LLOON *Hidden Item*).
 - (1A = Field Bonoculars | 1B = Professional Fishing Rod | 1C = Metal Detector | 1E = Snackbar | 1F = Canned Tuna).
 - (2A = Defualt Jacket | 2B = Defualt Trousers | 2C = Defualt Backpack | 2D = Cammo Jacket | 2E = Cammo Trousers).
+- (45 = Flamethrower | 26 = Ray Gun | 47 = Flare Gun).
 
 # Modding: Data3
 
